@@ -20,6 +20,7 @@ I'm a Self-taught programmer. Love to learn new tech stacks.
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Firebase" width="21px" src="https://user-images.githubusercontent.com/95159633/187835229-fe8f74ed-1ed6-417f-9310-3c4072876c81.png" />
 <img align="left" alt="Figma" width="26px" src="https://user-images.githubusercontent.com/95159633/187834426-766c2443-907c-40ea-b6c2-861cfaa4e078.png" />
+<img align="left" alt="Adobe Lightroom" width="30px" src="https://user-images.githubusercontent.com/95159633/193422737-4267ace5-37df-4dcd-bbea-02330d45938c.png" />
 
 <br />
 
