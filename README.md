@@ -9,7 +9,6 @@ I'm a Self-taught programmer. Love to learn new tech stacks.
 
 ### Languages and Tools
 
-<img align="left" alt="Next js" width="36px" src="https://user-images.githubusercontent.com/95159633/193329445-c39b2153-f0ba-4f2d-93c1-5d10700f485a.png" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="Node js" width="26px" src="https://user-images.githubusercontent.com/95159633/193327854-494f89c7-e26b-4864-a6a7-eddff9599952.png" />
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
