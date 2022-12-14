@@ -7,6 +7,24 @@ I'm a Self-taught programmer. Love to learn new tech stacks.
 - ⚡ Fun fact: I love to travel, hike and capture the moments on my camera. 
 
 
+### Connect with me
+
+<a href="https://www.facebook.com/ahan.bryan.96/">
+<img align="left" alt="FaceBook" width="36px" src="https://user-images.githubusercontent.com/95159633/187831999-736311f9-0441-45ba-a843-0619e2ce498a.png" />
+</a>
+<a href="https://www.linkedin.com/in/saiket-das/">
+<img align="left" alt="LinkedIn" width="36px" src="https://user-images.githubusercontent.com/95159633/187831895-86e15fc4-8797-4612-8de5-f219c7bc02c1.png" />
+</a>
+<a href="https://www.instagram.com/ahan_bryan/">
+<img align="left" alt="Instagram" width="36px" src="https://user-images.githubusercontent.com/95159633/187832099-f3d659e3-8beb-4336-8a51-4eacd86c9756.png" />
+</a>
+<a href="https://www.instagram.com/ahan_bryan/">
+<img align="left" alt="Twitter" width="36px" src="https://user-images.githubusercontent.com/95159633/187837076-1ffa82a4-8701-4ac0-aedc-dca2cf3c7dbc.png" />
+</a>
+
+</br>
+</br>
+
 ### Languages and Tools
 
 <!-- <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
@@ -44,19 +62,14 @@ I'm a Self-taught programmer. Love to learn new tech stacks.
 <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
 <img src="https://img.shields.io/badge/adobe%20lightroom-%2331A8FF.svg?style=for-the-badge&logo=adobe%20lightroom&logoColor=white" />
 
-</div>
 
-### Connect with me
+</br>
 
-<a href="https://www.facebook.com/ahan.bryan.96/">
-<img align="left" alt="FaceBook" width="36px" src="https://user-images.githubusercontent.com/95159633/187831999-736311f9-0441-45ba-a843-0619e2ce498a.png" />
-</a>
-<a href="https://www.linkedin.com/in/saiket-das/">
-<img align="left" alt="LinkedIn" width="36px" src="https://user-images.githubusercontent.com/95159633/187831895-86e15fc4-8797-4612-8de5-f219c7bc02c1.png" />
-</a>
-<a href="https://www.instagram.com/ahan_bryan/">
-<img align="left" alt="Instagram" width="36px" src="https://user-images.githubusercontent.com/95159633/187832099-f3d659e3-8beb-4336-8a51-4eacd86c9756.png" />
-</a>
-<a href="https://www.instagram.com/ahan_bryan/">
-<img align="left" alt="Twitter" width="36px" src="https://user-images.githubusercontent.com/95159633/187837076-1ffa82a4-8701-4ac0-aedc-dca2cf3c7dbc.png" />
-</a>
+### Current Stats
+<br />
+<p align="center">
+  <img width="60%" src="https://user-images.githubusercontent.com/95159633/207570473-fdb98513-7264-4dee-8fca-db70391d0e1d.svg" />
+</p>
+
+
+
