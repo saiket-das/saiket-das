@@ -9,16 +9,23 @@ I'm a Self-taught programmer. Love to learn new tech stacks.
 
 ### Connect with me
 
-<a href="https://www.facebook.com/ahan.bryan.96/">
-<img align="left" alt="FaceBook" width="36px" src="https://user-images.githubusercontent.com/95159633/187831999-736311f9-0441-45ba-a843-0619e2ce498a.png" />
+<a href="mailto:saiketdas02@gmail.com" target="_blank">
+<img align="left" alt="FaceBook" width="36px" src="https://user-images.githubusercontent.com/95159633/208268184-9109bca2-5a99-4031-8d41-8bd8d4ff39e1.png" />
 </a>
-<a href="https://www.linkedin.com/in/saiket-das/">
+
+<a href="https://www.linkedin.com/in/saiket-das/" target="_blank">
 <img align="left" alt="LinkedIn" width="36px" src="https://user-images.githubusercontent.com/95159633/187831895-86e15fc4-8797-4612-8de5-f219c7bc02c1.png" />
 </a>
-<a href="https://www.instagram.com/ahan_bryan/">
+
+<a href="https://www.facebook.com/ahan.bryan.96/" target="_blank">
+<img align="left" alt="FaceBook" width="36px" src="https://user-images.githubusercontent.com/95159633/187831999-736311f9-0441-45ba-a843-0619e2ce498a.png" />
+</a>
+
+<a href="https://www.instagram.com/ahan_bryan/" target="_blank">
 <img align="left" alt="Instagram" width="36px" src="https://user-images.githubusercontent.com/95159633/187832099-f3d659e3-8beb-4336-8a51-4eacd86c9756.png" />
 </a>
-<a href="https://www.instagram.com/ahan_bryan/">
+
+<a href="https://www.instagram.com/ahan_bryan/" target="_blank">
 <img align="left" alt="Twitter" width="36px" src="https://user-images.githubusercontent.com/95159633/187837076-1ffa82a4-8701-4ac0-aedc-dca2cf3c7dbc.png" />
 </a>
 
