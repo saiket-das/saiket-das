@@ -76,8 +76,7 @@ I'm a Self-taught programmer. Love to learn new tech stacks.
 ### Current Stats
 <br />
 <p align="center">
-  <img width="60%" src="https://user-images.githubusercontent.com/95159633/207570473-fdb98513-7264-4dee-8fca-db70391d0e1d.svg" />
+  <img width="60%" src="https://user-images.githubusercontent.com/95159633/208469823-3bc83801-030d-47c3-9235-de6e3ffddf37.svg" />
 </p>
-
 
 
