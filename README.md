@@ -75,7 +75,9 @@ I'm a Self-taught programmer. Love to learn new tech stacks.
 ### Current Stats
 <br />
 <p align="center">
-  <img width="60%" src="https://user-images.githubusercontent.com/95159633/208469823-3bc83801-030d-47c3-9235-de6e3ffddf37.svg" />
+  <img width="60%" src="https://user-images.githubusercontent.com/95159633/212132930-d7f522f1-5699-465b-92ea-377fff0bb322.svg" />
 </p>
+<!-- https://streak-stats.demolab.com/?user=saiket-das&theme=dark -->
+
 
 
