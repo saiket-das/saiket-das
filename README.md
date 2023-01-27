@@ -34,17 +34,7 @@ I'm a Self-taught programmer. Love to learn new tech stacks.
 
 ### Languages and Tools
 
-<!-- <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Node js" width="26px" src="https://user-images.githubusercontent.com/95159633/193327854-494f89c7-e26b-4864-a6a7-eddff9599952.png" />
-<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="HTML5" width="26px" src="https://user-images.githubusercontent.com/95159633/187834589-64b6c370-3920-43a8-99a2-0a6f688608b4.png" />
-<img align="left" alt="CSS3" width="26px" src="https://user-images.githubusercontent.com/95159633/187834592-edf308dd-4ab1-47e1-ba2f-50a14cfaa6ce.png" />
-<img align="left" alt="GitHub" width="28px" src="https://user-images.githubusercontent.com/95159633/187834852-8f4958c6-838e-4576-a78c-5bca90e36362.png" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="Firebase" width="20px" src="https://user-images.githubusercontent.com/95159633/187835229-fe8f74ed-1ed6-417f-9310-3c4072876c81.png" />
-<img align="left" alt="Figma" width="26px" src="https://user-images.githubusercontent.com/95159633/187834426-766c2443-907c-40ea-b6c2-861cfaa4e078.png" />
-<img align="left" alt="Adobe Lightroom" width="30px" src="https://user-images.githubusercontent.com/95159633/193422737-4267ace5-37df-4dcd-bbea-02330d45938c.png" />
+<!-- <img align="left" alt="Adobe Lightroom" width="30px" src="https://user-images.githubusercontent.com/95159633/193422737-4267ace5-37df-4dcd-bbea-02330d45938c.png" /> -->
 
 <br /> -->
 <!-- #### Languages -->
