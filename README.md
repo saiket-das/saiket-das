@@ -10,7 +10,7 @@ I'm a Self-taught programmer. Love to learn new tech stacks.
 ### Connect with me
 
 <a href="mailto:saiketdas02@gmail.com" target="_blank">
-<img align="left" alt="FaceBook" width="36px" src="https://user-images.githubusercontent.com/95159633/208268184-9109bca2-5a99-4031-8d41-8bd8d4ff39e1.png" />
+<img align="left" alt="Email" width="36px" src="https://user-images.githubusercontent.com/95159633/208268184-9109bca2-5a99-4031-8d41-8bd8d4ff39e1.png" />
 </a>
 
 <a href="https://www.linkedin.com/in/saiket-das/" target="_blank">
