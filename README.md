@@ -36,7 +36,6 @@ I'm a Self-taught programmer. Love to learn new tech stacks.
 
 <!-- <img align="left" alt="Adobe Lightroom" width="30px" src="https://user-images.githubusercontent.com/95159633/193422737-4267ace5-37df-4dcd-bbea-02330d45938c.png"/> -->
 
-<br /> 
 <!-- #### Languages -->
 <div align="left">
 <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
