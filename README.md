@@ -2,7 +2,7 @@
 
 I'm a Self-taught programmer. Love to learn new tech stacks.
 
-- 🌱 I’m currently learning **App Development**. 
+- 🌱 I’m currently learning **Everything**. 
 - 👯 I’m looking to collaborate on **JavaScript Community**.
 - ⚡ Fun fact: I love to travel, hike and capture the moments on my camera. 
 
