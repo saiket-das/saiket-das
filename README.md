@@ -25,7 +25,7 @@ I'm a Self-taught programmer. Love to learn new tech stacks.
 <img align="left" alt="Instagram" width="36px" src="https://user-images.githubusercontent.com/95159633/187832099-f3d659e3-8beb-4336-8a51-4eacd86c9756.png" />
 </a>
 
-<a href="https://www.instagram.com/ahan_bryan/" target="_blank">
+<a href=" target="_blank">
 <img align="left" alt="Twitter" width="36px" src="https://user-images.githubusercontent.com/95159633/187837076-1ffa82a4-8701-4ac0-aedc-dca2cf3c7dbc.png" />
 </a>
 
