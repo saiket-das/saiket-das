@@ -32,7 +32,7 @@ I'm a Self-taught programmer. Love to learn new tech stacks.
 </br>
 </br>
 
-### Languages, Library and Tools 
+### Languages, Library and Tool
 
 <!-- <img align="left" alt="Adobe Lightroom" width="30px" src="https://user-images.githubusercontent.com/95159633/193422737-4267ace5-37df-4dcd-bbea-02330d45938c.png"/> -->
 
