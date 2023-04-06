@@ -60,12 +60,13 @@ I'm a Self-taught programmer. Love to learn new tech stacks.
 
 </br>
 
-### Current Stats
+### Current Stats 
 
 <br />
 <p align="center">
   <img width="60%" src="https://user-images.githubusercontent.com/95159633/227792722-0e828641-dddd-4036-895a-4ce80e74e20d.svg" />
 </p>
+
 <!-- https://streak-stats.demolab.com/?user=saiket-das&theme=dark -->
 
 
