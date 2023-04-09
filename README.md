@@ -18,7 +18,7 @@ I'm a Self-taught programmer. Love to learn new tech stacks.
 </a>
 
 <a href="https://www.facebook.com/ahan.bryan.96/" target="_blank">
-<img align="left" alt="FaceBook" width="36px" src="https://user-images.githubusercontent.com/95159633/187831999-736311f9-0441-45ba-a843-0619e2ce498a.png" />
+<img align="left" alt="Facebook" width="36px" src="https://user-images.githubusercontent.com/95159633/187831999-736311f9-0441-45ba-a843-0619e2ce498a.png" />
 </a>
 
 <a href="https://www.instagram.com/ahan_bryan/" target="_blank">
