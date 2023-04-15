@@ -64,7 +64,7 @@ I'm a Self-taught programmer. Love to learn new tech stacks.
 
 <br />
 <p align="center">
-  <img width="60%" src="https://user-images.githubusercontent.com/95159633/227792722-0e828641-dddd-4036-895a-4ce80e74e20d.svg" />
+  <img width="60%" src="https://user-images.githubusercontent.com/95159633/232238976-01526fa1-aa8e-4f01-9bc4-1a2da26b8022.svg" />
 </p>
 
 <!-- https://streak-stats.demolab.com/?user=saiket-das&theme=dark -->
