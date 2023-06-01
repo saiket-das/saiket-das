@@ -6,10 +6,9 @@ I'm a Self-taught programmer. Love to learn new tech stacks.
 - 👯 I’m looking to collaborate on **JavaScript Community**.
 - ⚡ Fun fact: I love to travel, hike and capture the moments on my camera. 
 
+[//]: # (![afmjoaa's GitHub stats]&#40;https://github-readme-stats.vercel.app/api?username=saiket-das&show_icons=false&theme=transparent&#41;)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saiket-das&langs_count=10&&hide_progress=true&theme=transparent&hide=CMake,CSS,HTML,C,Batchfile)](https://github.com/anuraghazra/github-readme-stats)
 
-<!-- [//]: # (![saiket-das's GitHub stats]&#40;https://github-readme-stats.vercel.app/api?username=saiket-das&show_icons=false&theme=transparent&#41;)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saiket-das&langs_count=10&hide_progress=true&theme=transparent&hide=Css,HTML,C,Batchfile)](https://github.com/anuraghazra/github-readme-stats)
- -->
 
 ### Connect with me
 
