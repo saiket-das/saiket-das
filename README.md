@@ -9,7 +9,7 @@ I'm a Self-taught programmer. Love to learn new tech stacks.
 <!-- [//]: # (![afmjoaa's GitHub stats]&#40;https://github-readme-stats.vercel.app/api?username=saiket-das&show_icons=false&theme=transparent&#41;) -->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saiket-das&langs_count=10&&hide_progress=true&theme=transparent&hide=CMake,CSS,HTML,C,Batchfile)](https://github.com/anuraghazra/github-readme-stats) -->
 
-![download](https://github.com/Saiket-Das/saiket-das/assets/95159633/5d8c64b1-f041-4fe1-8cda-4d28de9f4d36)
+![stats](https://github.com/Saiket-Das/saiket-das/assets/95159633/5311a57a-b5c1-4636-b0db-b11024f9bd7e)
 
 
 ### Connect with me
