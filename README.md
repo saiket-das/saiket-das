@@ -6,7 +6,7 @@ I'm a Self-taught programmer. Love to learn new tech stacks.
 - 👯 I’m looking to collaborate on **JavaScript Community**.
 - ⚡ Fun fact: I love to travel, hike and capture the moments on my camera. 
 
-<!-- [//]: # (![afmjoaa's GitHub stats]&#40;https://github-readme-stats.vercel.app/api?username=saiket-das&show_icons=false&theme=transparent&#41;) -->
+
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saiket-das&langs_count=10&&hide_progress=true&theme=transparent&hide=CMake,CSS,HTML,C,Batchfile)](https://github.com/anuraghazra/github-readme-stats) -->
 
 ![stats](https://github.com/Saiket-Das/saiket-das/assets/95159633/5311a57a-b5c1-4636-b0db-b11024f9bd7e)
@@ -37,9 +37,6 @@ I'm a Self-taught programmer. Love to learn new tech stacks.
 </br>
 
 ### Languages, Library and Tool
-
-<!-- <img align="left" alt="Adobe Lightroom" width="30px" src="https://user-images.githubusercontent.com/95159633/193422737-4267ace5-37df-4dcd-bbea-02330d45938c.png"/> -->
-
 <!-- #### Languages -->
 <div align="left">
 <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
