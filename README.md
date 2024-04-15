@@ -18,7 +18,7 @@ I'm a Self-taught programmer. Love to learn new tech stacks.
 <img align="left" alt="Email" width="36px" src="https://user-images.githubusercontent.com/95159633/208268184-9109bca2-5a99-4031-8d41-8bd8d4ff39e1.png" />
 </a>
 
-<a href="https://www.linkedin.com/in/saiket-das/" target="_blank">
+<a href="https://www.linkedin.com/in/saiket-das02/" target="_blank">
 <img align="left" alt="LinkedIn" width="36px" src="https://user-images.githubusercontent.com/95159633/187831895-86e15fc4-8797-4612-8de5-f219c7bc02c1.png" />
 </a>
 
