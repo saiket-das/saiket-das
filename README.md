@@ -1,10 +1,10 @@
 ## Hi there, I'm Saiket Das 👋
 
-I'm a Self-taught programmer. Love to learn new tech stacks.
+I'm a self-taught programmer. Love to learn new tech stacks.
 
 - 🌱 I’m currently learning **Everything**. 
 - 👯 I’m looking to collaborate on **JavaScript Community**.
-- ⚡ Fun fact: I love to travel, hike and capture the moments on my camera. 
+- ⚡ Fun fact: I love to travel, hike, and capture the moments on my camera. 
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saiket-das&langs_count=10&&hide_progress=true&theme=transparent&hide=CMake,CSS,HTML,C,Batchfile)](https://github.com/anuraghazra/github-readme-stats) -->
 
@@ -36,28 +36,32 @@ I'm a Self-taught programmer. Love to learn new tech stacks.
 </br>
 </br>
 
-### Languages, Library and Tool
+### Language, Library and Tool
 <!-- #### Languages -->
 <div align="left">
 <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
 <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+
 <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
 <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
+<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" />
+
+<img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
 <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
 <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37" />
 <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" />
+
 <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
   
 </br>
 </br>
 
-<img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" />
 <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37" />
 <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
 <img src="https://img.shields.io/badge/adobe%20lightroom-%2331A8FF.svg?style=for-the-badge&logo=adobe%20lightroom&logoColor=white" />
