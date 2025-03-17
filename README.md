@@ -8,8 +8,7 @@ I'm a self-taught programmer. Love to learn new tech stacks.
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saiket-das&langs_count=10&&hide_progress=true&theme=transparent&hide=CMake,CSS,HTML,C,Batchfile)](https://github.com/anuraghazra/github-readme-stats) -->
 
-![stats](https://github.com/saiket-das/saiket-das/assets/95159633/4366ae7a-e8de-4080-b553-af3b4ceda4e6)
-
+![stats](https://github.com/user-attachments/assets/7396f344-5168-4b7b-a6bf-f01e597b7406)
 
 ### Connect with me
 
@@ -36,7 +35,7 @@ I'm a self-taught programmer. Love to learn new tech stacks.
 </br>
 </br>
 
-### Language, Library and Tool
+### Language, Library, and Tool
 <!-- #### Languages -->
 <div align="left">
 <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
